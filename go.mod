@@ -1,4 +1,4 @@
-module github.com/honeiu/ele-chain
+module github.com/hoeniu/ele-chain
 
 go 1.15
 
