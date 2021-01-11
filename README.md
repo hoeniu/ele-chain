@@ -18,8 +18,11 @@ TODO
 
 ## To start developing ele-chain 
 
-TODO
-
+```
+mkdir -p $GOPATH/src/github.com/hoeniu
+git clone https://github.com/hoeniu/ele-chain
+cp -r ele-chain/ $GOPATH/src/github.com/hoeniu
+```
 ##### You have a working [Go environment].
 
 ```
