@@ -8,8 +8,16 @@
 -->
 # ele-chain 
 
-实现区块链的个人项目
-
+```
+ * @Author: hoeniu
+ * @Date: 2021-01-06 10:13:38
+ * @LastModifiedBy: hoeniu
+ * @LastEditTime: 2021-01-06 10:29:16
+ * @FilePath: /ele-chain/README.md
+ * @Description:  The implementation of blockchain from     
+   single chain to multi chain, using golang language development, 
+   using B / S mode
+ ```
 ----
 
 ## To start using ele-chain
